@@ -4,4 +4,8 @@ Wheat bread
 Avocado
 Cheese slices 
 
+#Dinner
+Tomato
+Egg
+Veggies 
 
